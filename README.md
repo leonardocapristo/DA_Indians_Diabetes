@@ -1,8 +1,8 @@
 # Projeto: Indians Diabetes
 
-## Clique aqui para ir ao projeto :
+## Clique no link abaixo para ir ao projeto :
 
-<a href="">Clique aqui</a>
+<a href="https://github.com/leonardocapristo/DA_Indians_Diabetes/blob/main/DA_Indians_Diabetes.ipynb">Clique aqui</a>
 
 ### Objetivo
 O objetivo deste projeto é analisar um conjunto de dados de pacientes para identificar aqueles que desenvolveram ou não diabetes e realizar transformações específicas nos dados.
